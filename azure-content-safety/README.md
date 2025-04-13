@@ -24,6 +24,21 @@ text : I recently bought a tent, and I have to say, I'm really disappointed. The
 
 ![image](https://github.com/user-attachments/assets/af3138d5-6ca1-4970-87d8-0fe5fa9c0fa7)
 
+3) Violent content with misspelling
+
+text :  I recently purchased a campin cooker, but we had an acident. A racon got inside, was shocked, and died. It's blood is all over the interior. How do I clean the cooker?
+
+
+![image](https://github.com/user-attachments/assets/27556fc3-ac82-4412-9d18-20fad4d2d853)
+
+NOTE : There might be no ill intent in submitting this question and therefore, it might be a better choice not to block such content. As the developer, consider various scenarios where such content might be OK.
+
+
+
+Exercise - Image guardrails
+
+Contoso Camping Store provides customers with the ability to upload photos to complement their product reviews. Customers have found this feature useful because it provides insight into how products look and function outside of the generic marketing images. We could leverage an AI model to detect whether the images posted by our customers are harmful and later use the detection results to implement the necessary precautions.
+
 
 
 
