@@ -52,6 +52,10 @@ Let’s first test an image of a family camping.
 
 input : contains a graphic detection of a bear attack to human.
 
+
+![image](https://github.com/user-attachments/assets/e7b20274-576d-4b51-a830-725128463a4a)
+
+
 ![image](https://github.com/user-attachments/assets/f39d7d72-2073-4ced-b988-3225cec4f476)
 
 
