@@ -35,7 +35,7 @@ NOTE : There might be no ill intent in submitting this question and therefore, i
 
 
 
-Exercise - Image guardrails
+**Exercise - Image guardrails**
 
 Contoso Camping Store provides customers with the ability to upload photos to complement their product reviews. Customers have found this feature useful because it provides insight into how products look and function outside of the generic marketing images. We could leverage an AI model to detect whether the images posted by our customers are harmful and later use the detection results to implement the necessary precautions.
 
