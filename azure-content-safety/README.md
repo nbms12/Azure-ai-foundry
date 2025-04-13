@@ -40,6 +40,35 @@ NOTE : There might be no ill intent in submitting this question and therefore, i
 Contoso Camping Store provides customers with the ability to upload photos to complement their product reviews. Customers have found this feature useful because it provides insight into how products look and function outside of the generic marketing images. We could leverage an AI model to detect whether the images posted by our customers are harmful and later use the detection results to implement the necessary precautions.
 
 
+1)Safe content
 
+Let’s first test an image of a family camping.
+
+![image](https://github.com/user-attachments/assets/317fb371-cc60-4f63-b692-41d6a8270e02)
+
+
+
+2) Violent content : harmful image content.
+
+input : contains a graphic detection of a bear attack to human.
+
+![image](https://github.com/user-attachments/assets/f39d7d72-2073-4ced-b988-3225cec4f476)
+
+
+input : a bear at tent 
+
+![image](https://github.com/user-attachments/assets/86c8d6a7-c2fb-4ee3-b5f4-b23dec00401e)
+
+
+![image](https://github.com/user-attachments/assets/c58cc7ab-9297-4120-bf95-37652a1f62ab)
+
+
+
+inpput : a woman in a bikini 
+
+![image](https://github.com/user-attachments/assets/b9d4907a-73b4-4863-a8fe-b7cb2addc9d7)
+
+
+![image](https://github.com/user-attachments/assets/9d7e96b9-79fa-4f16-8622-000c1f423f06)
 
 
